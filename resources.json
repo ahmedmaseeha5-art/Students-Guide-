@@ -5,5 +5,13 @@
     "type": "note",
     "description": "An introduction to the five pillars of islam. Main points ",
     "keywords": "Five Pillars , Islam , Aqaaid "
+  },
+  {
+    "title": "Test Surah Audio ",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "Test audio to test playback ",
+    "audioUrl": "/media/114-Naas-sh_khalil_husary.mp3",
+    "keywords": "Test Surah Audio "
   }
 ]
