@@ -1,0 +1,58 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: learning-material
+    label: Learning Materials
+    type: file
+    path: resources.json
+    format: json
+    list: true
+    fields:
+      - name: title
+        label: Lesson or Recording Title
+        type: string
+        required: true
+
+      - name: subject
+        label: Subject
+        type: select
+        options:
+          values:
+            - Fiqh
+            - Aqaaid
+            - Hadeeth
+            - Islamic History
+            - Surah Audios
+            - Dua Audios
+
+      - name: type
+        label: Material Type
+        type: select
+        options:
+          values:
+            - note
+            - surah
+            - dua
+            - audio
+
+      - name: description
+        label: Description
+        type: text
+
+      - name: url
+        label: Study Notes Link
+        type: string
+
+      - name: audioUrl
+        label: Audio File
+        type: file
+
+      - name: keywords
+        label: Search Keywords
+        type: string
+
+      - name: icon
+        label: Icon
+        type: string
