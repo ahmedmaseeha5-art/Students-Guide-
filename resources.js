@@ -6,5 +6,3 @@ const subjects = [
   { id: "surahs", name: "Surah Audios", emoji: "🎧", color: "blue", description: "Listen to Surah recitations in one dedicated place.", kind: "surah" },
   { id: "duas", name: "Dua Audios", emoji: "🤲", color: "pink", description: "Listen to Duas and practise them at your own pace.", kind: "dua" }
 ];
-
-let resources = [];
