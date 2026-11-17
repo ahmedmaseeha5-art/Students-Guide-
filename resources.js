@@ -7,10 +7,10 @@
   Use files you own or have permission to share.
 */
 const subjects = [
-  { name: "Mathematics", emoji: "➗", color: "lav" },
-  { name: "Languages", emoji: "✍️", color: "pink" },
-  { name: "Business", emoji: "📊", color: "blue" },
-  { name: "Science", emoji: "🔬", color: "sage" },
+  { name: "General", emoji: "🎁", color: "lav" },
+  { name: "Fiqh", emoji: "📕", color: "pink" },
+  { name: "Hadeeth", emoji: "💌", color: "blue" },
+  { name: "Aqaaid", emoji: "🧭", color: "sage" },
   { name: "Technology", emoji: "💻", color: "blue" },
   { name: "Accounting", emoji: "🧮", color: "lav" },
   { name: "Personal Development", emoji: "🌱", color: "sage" },
