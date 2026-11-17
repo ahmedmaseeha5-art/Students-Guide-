@@ -10,7 +10,7 @@ const subjects = [
   { name: "Fiqh", emoji: "📕", color: "pink" },
   { name: "Hadeeth", emoji: "💌", color: "blue" },
   { name: "Aqaaid", emoji: "🧭", color: "sage" },
-  { name: "Personal Development", emoji: "🌱", color: "lav" },
+  { name: "Audios", emoji: "🌱", color: "lav" },
   { name: "General Knowledge", emoji: "🌍", color: "pink" }
 ];
 
