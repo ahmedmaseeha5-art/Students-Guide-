@@ -1,0 +1,10 @@
+media:
+  input: media
+  output: /media
+
+content:
+  - name: website-content
+    label: Website Content
+    type: file
+    path: resources.js
+    format: code
