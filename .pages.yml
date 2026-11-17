@@ -11,7 +11,7 @@ content:
     list: true
     fields:
       - name: title
-        label: Lesson or Recording Title
+        label: Lesson Title
         type: string
         required: true
 
@@ -38,21 +38,20 @@ content:
             - audio
 
       - name: description
-        label: Description
+        label: Short Description
         type: text
 
-      - name: url
-        label: Study Notes Link
-        type: string
+      - name: notes
+        label: Lesson Notes
+        type: text
 
       - name: audioUrl
-        label: Audio File
+        label: Upload Audio
         type: file
+        options:
+          categories:
+            - audio
 
       - name: keywords
         label: Search Keywords
-        type: string
-
-      - name: icon
-        label: Icon
         type: string
