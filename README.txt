@@ -1,81 +1,66 @@
-STUDENTS GUIDE — STARTER WEBSITE
-================================
+STUDENTS GUIDE — ISLAMIC LEARNING WEBSITE
+========================================
 
-WHAT IS INCLUDED
-- index.html: the website pages and layout
-- styles.css: pastel colours, layout and mobile styling
-- resources.js: the subjects and learning materials you can edit
-- script.js: search, subject filters and resource display
+WEBSITE SECTIONS
+- Fiqh
+- Aqaaid
+- Hadeeth
+- Islamic History
+- Surah Audios
+- Dua Audios
 
-PREVIEW ON A COMPUTER
-1. Extract the ZIP file.
-2. Open the students-guide folder.
-3. Double-click index.html to preview it in your browser.
-   Internet is needed for the optional Google Fonts.
+Each section opens its own page. The home page has six pastel cards. Students can search the resources you add. There are no grade categories.
 
-HOW TO ADD STUDY NOTES
-1. Upload your PDF to a file host that provides a public viewing link.
-2. Open resources.js in a text editor.
-3. Add a new object inside the resources array, following this example:
+HOW TO ADD YOUR OWN MATERIAL
+Your materials are kept in resources.js. You are the person who controls this file through your private GitHub account. Visitors can view the website but cannot edit your GitHub files.
+
+To add a written note, upload your PDF/document to a host that gives you a public viewing link, then add an entry inside the resources array in resources.js, like this:
 
 {
   type: "note",
-  title: "Fractions: introduction",
-  subject: "Mathematics",
-  description: "An introduction to fractions and equivalent fractions.",
-  keywords: "fractions numerator denominator maths",
+  title: "Wudhu",
+  subject: "Fiqh",
+  description: "Important points about Wudhu.",
+  keywords: "wudhu, ablution, tahaarah",
   url: "PASTE_PUBLIC_DOCUMENT_LINK_HERE",
   icon: "📝"
 },
 
-HOW TO ADD AUDIO
-1. Upload your audio to an audio host that provides an embeddable/direct audio file URL.
-2. Add an object inside the resources array, following this example:
+To add a Surah audio, add:
 
 {
-  type: "audio",
-  title: "Introduction to algebra",
-  subject: "Mathematics",
-  description: "A short introduction to algebra.",
-  keywords: "algebra variables equations",
-  audioUrl: "PASTE_AUDIO_FILE_URL_HERE",
+  type: "surah",
+  title: "Surah Al-Faatihah",
+  subject: "Surah Audios",
+  description: "Listen to the recitation.",
+  keywords: "faatihah quran recitation",
+  audioUrl: "PASTE_DIRECT_AUDIO_FILE_LINK_HERE",
   icon: "🎧"
 },
 
-The audio player hides its download button in supported browsers, but this is not
-strong copy protection. Anyone who can listen may still record or capture audio.
-Do not upload copyrighted material unless you have permission to share it.
+To add a Dua audio, add:
 
-HOW TO ADD A SUBJECT
-Add a subject object inside the subjects array in resources.js:
-{ name: "Geography", emoji: "🌍", color: "sage" }
+{
+  type: "dua",
+  title: "Morning Dua",
+  subject: "Dua Audios",
+  description: "Listen and practise this Dua.",
+  keywords: "morning dua supplication",
+  audioUrl: "PASTE_DIRECT_AUDIO_FILE_LINK_HERE",
+  icon: "🤲"
+},
 
-Available pastel color names: lav, pink, blue, sage.
+For Aqaaid, Hadeeth and Islamic History notes, use those exact subject names in the subject field. Use a direct MP3, M4A or OGG audio-file link for audio. The website displays your hosted files; it does not upload/store them itself. Audio controls hide the download button in supported browsers, but cannot prevent recording or copying.
 
-PUBLISH THE WEBSITE WITH GITHUB PAGES
-1. Create/sign in to a GitHub account.
-2. Create a new PUBLIC repository named students-guide.
-3. Upload index.html, styles.css, script.js, resources.js and README.txt
-   to the top level of the repository (not inside another folder).
-4. In the repository, open Settings > Pages.
-5. Under Build and deployment, choose Deploy from a branch.
-6. Choose branch main and folder /(root), then Save.
-7. Wait for GitHub Pages to publish. Your website address will be shown
-   on the Pages settings screen.
+PUBLISHING THE UPDATED WEBSITE
+1. Extract this ZIP file.
+2. Open the students-guide folder inside it.
+3. In your GitHub repository, replace the existing index.html, styles.css, script.js, resources.js and README.txt with the updated versions. Upload the files to the repository's top level (root), not inside another folder.
+4. Commit the changes. GitHub Pages will publish the update automatically.
+5. Open your website and refresh it.
 
-EDITING FROM PHONE OR COMPUTER
-- Sign in to GitHub using the account that owns the repository.
-- Open the students-guide repository.
-- Open resources.js and choose the pencil/Edit button to add or change resources.
-- Commit/save the changes. GitHub Pages republishes the website automatically.
-- You can also edit the HTML or CSS files to change the design.
-
-OWNER ACCESS
-Keep your GitHub account secure and do not share your password.
-Only give repository write access to people you trust. Visitors to the public
-website do not get permission to edit the repository.
+EDITING LATER
+When you want to add or change content, open resources.js in your GitHub repository, tap the pencil/Edit icon, make your changes in the resources array, and commit the file. Only people with repository write access can do this. Keep your GitHub account password private.
 
 IMPORTANT
-This is a starter template with sample placeholder entries. Replace them with
-your own notes and audio links before sharing it publicly. The website itself
-does not store uploaded files; it displays links to resources hosted elsewhere.
+The website is public, so anything you publish can be viewed by visitors. Do not put private student information on the website. Only upload content you own or have permission to share.
