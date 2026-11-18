@@ -30,5 +30,13 @@
     "description": "قل هو الله احد",
     "audioUrl": "/media/2-Surah_Ikhlaas-Qari_Raees.mp3",
     "keywords": "Surah Ikhlaas Audio "
+  },
+  {
+    "title": "Surah Lahab",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "تبت يدا",
+    "audioUrl": "/media/7-Surah_Lahab-Qari_Raees.mp3",
+    "keywords": "Surah Lahab Audio"
   }
 ]
