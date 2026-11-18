@@ -118,5 +118,13 @@
     "description": "Second Kalimah ",
     "audioUrl": "/media/dua-2-kalimah-shahaadah-1.mp3",
     "keywords": "Kalimah Shahaadah Dua "
+  },
+  {
+    "title": "Kalimah Tamjeed ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Third Kalimah ",
+    "audioUrl": "/media/dua-3-kalimah-tamjeed.mp3",
+    "keywords": "Kalimah Tamjeed Dua "
   }
 ]
