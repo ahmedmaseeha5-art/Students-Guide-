@@ -70,5 +70,12 @@
     "description": "ارءيت الذي",
     "audioUrl": "/media/10-Surah_ma-oon-Qari_Raees.mp3",
     "keywords": "Surah Ma'oon Audio"
+  },
+  {
+    "title": "Surah Quraish",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "audioUrl": "/media/11-Surah_Quraish-Qari_Raees.mp3",
+    "keywords": "Surah Quraish "
   }
 ]
