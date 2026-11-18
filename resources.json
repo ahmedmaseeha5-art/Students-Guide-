@@ -126,5 +126,13 @@
     "description": "Third Kalimah ",
     "audioUrl": "/media/dua-3-kalimah-tamjeed.mp3",
     "keywords": "Kalimah Tamjeed Dua "
+  },
+  {
+    "title": "Kalimah Tauheed ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Fourth Kalimah ",
+    "audioUrl": "/media/dua-4-kalimah-tauheed.mp3",
+    "keywords": "Kalimah Tauheed Dua "
   }
 ]
