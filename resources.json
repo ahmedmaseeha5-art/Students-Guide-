@@ -182,5 +182,13 @@
     "description": "Dua when welcoming someone ",
     "audioUrl": "/media/dua-10-welcoming-someone-1.mp3",
     "keywords": "Dua Welcoming "
+  },
+  {
+    "title": "Before Eating ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Dua before eating ",
+    "audioUrl": "/media/dua-11-before-eating.mp3",
+    "keywords": "Dua Before Eating "
   }
 ]
