@@ -102,5 +102,13 @@
     "description": "والعصر",
     "audioUrl": "/media/5-Surah_Asr-Qari_Raees-1.mp3",
     "keywords": "Surah Asr Audio"
+  },
+  {
+    "title": "Kalimah Tayyibah ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "First Kalimah ",
+    "audioUrl": "/media/dua-1-kalimah-tayyibah.mp3",
+    "keywords": "Kalimah Tayyibah Dua "
   }
 ]
