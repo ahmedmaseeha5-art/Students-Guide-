@@ -174,5 +174,13 @@
     "description": "When replying to a greeting ",
     "audioUrl": "/media/dua-9-in-reply-to-a-greeting.mp3",
     "keywords": "Reply Greeting Dua "
+  },
+  {
+    "title": "When welcoming someone ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Dua when welcoming someone ",
+    "audioUrl": "/media/dua-10-welcoming-someone-1.mp3",
+    "keywords": "Dua Welcoming "
   }
 ]
