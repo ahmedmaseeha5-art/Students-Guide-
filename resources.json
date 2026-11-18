@@ -62,5 +62,13 @@
     "description": "انآ اعطينا",
     "audioUrl": "/media/4-Surah_kauthar-Qari_Raees.mp3",
     "keywords": "Surah Kauthar Audio "
+  },
+  {
+    "title": "Surah Ma'oon",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "ارءيت الذي",
+    "audioUrl": "/media/10-Surah_ma-oon-Qari_Raees.mp3",
+    "keywords": "Surah Ma'oon Audio"
   }
 ]
