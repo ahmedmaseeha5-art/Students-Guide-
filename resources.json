@@ -110,5 +110,13 @@
     "description": "First Kalimah ",
     "audioUrl": "/media/dua-1-kalimah-tayyibah.mp3",
     "keywords": "Kalimah Tayyibah Dua "
+  },
+  {
+    "title": "Kalimah Shahaadah ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Second Kalimah ",
+    "audioUrl": "/media/dua-2-kalimah-shahaadah-1.mp3",
+    "keywords": "Kalimah Shahaadah Dua "
   }
 ]
