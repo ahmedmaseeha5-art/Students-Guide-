@@ -46,5 +46,12 @@
     "description": "إذا جآء",
     "audioUrl": "/media/8-Surah_Nasr-Qari_Raees.mp3",
     "keywords": "Surah Nasar Audio"
+  },
+  {
+    "title": "Surah Kaafiroon",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "audioUrl": "/media/9-Surah_Kaafiroon-Qari_Raees.mp3",
+    "keywords": "Surah Kaafiroon Audio "
   }
 ]
