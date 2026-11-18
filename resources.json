@@ -3,7 +3,7 @@
     "title": "Surah Faatiha",
     "subject": "Surah Audios",
     "type": "surah",
-    "description": "Surah Faatiha",
+    "description": "الحمد ",
     "audioUrl": "/media/1-Surah_Faatiha-Qari_Raees-1.mp3",
     "keywords": "Surah Faatiha Audio"
   },
@@ -11,7 +11,7 @@
     "title": "Surah Naas ",
     "subject": "Surah Audios",
     "type": "surah",
-    "description": "Surah Naas ",
+    "description": "قل اعوذ برب الناس",
     "audioUrl": "/media/3-Surah_Naas-Qari_Raees.mp3",
     "keywords": "Surah Naas Audio"
   },
@@ -19,7 +19,7 @@
     "title": "Surah Falaq",
     "subject": "Surah Audios",
     "type": "surah",
-    "description": "Surah Falaq",
+    "description": "قل اعوذ برب الفلق",
     "audioUrl": "/media/6-Surah_Falaq-Qari_Raees.mp3",
     "keywords": "Surah Falaq Audio"
   },
