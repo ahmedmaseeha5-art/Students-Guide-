@@ -40,9 +40,11 @@
     "keywords": "Surah Lahab Audio"
   },
   {
-    "title": "Surah Fath",
+    "title": "Surah Nasar",
     "subject": "Surah Audios",
     "type": "surah",
-    "description": "إذا جآء"
+    "description": "إذا جآء",
+    "audioUrl": "/media/8-Surah_Nasr-Qari_Raees.mp3",
+    "keywords": "Surah Nasar Audio"
   }
 ]
