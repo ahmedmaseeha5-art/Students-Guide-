@@ -94,5 +94,13 @@
     "description": "ويل لكل",
     "audioUrl": "/media/13-Surah_Humazah-Qari_Raees.mp3",
     "keywords": "Surah Humaza Audio"
+  },
+  {
+    "title": "Surah Asr",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "والعصر",
+    "audioUrl": "/media/5-Surah_Asr-Qari_Raees-1.mp3",
+    "keywords": "Surah Asr Audio"
   }
 ]
