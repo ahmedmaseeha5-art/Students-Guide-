@@ -86,5 +86,13 @@
     "description": "الم تركيف",
     "audioUrl": "/media/12-Surah_feel-Qari_Raees-1.mp3",
     "keywords": "Surah Feel Audio"
+  },
+  {
+    "title": "Surah Humaza",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "ويل الكل",
+    "audioUrl": "/media/13-Surah_Humazah-Qari_Raees.mp3",
+    "keywords": "Surah Humaza Audio"
   }
 ]
