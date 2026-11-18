@@ -166,5 +166,13 @@
     "description": "When greeting a Muslim ",
     "audioUrl": "/media/dua-8-when-greeting-a-muslim.mp3",
     "keywords": "Dua Greeting "
+  },
+  {
+    "title": "Reply to a Greeting ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "When replying to a greeting ",
+    "audioUrl": "/media/dua-9-in-reply-to-a-greeting.mp3",
+    "keywords": "Reply Greeting Dua "
   }
 ]
