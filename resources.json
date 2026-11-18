@@ -22,5 +22,13 @@
     "description": "Surah Falaq",
     "audioUrl": "/media/6-Surah_Falaq-Qari_Raees.mp3",
     "keywords": "Surah Falaq Audio"
+  },
+  {
+    "title": "Surah Ikhlaas",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "قل هو الله احد",
+    "audioUrl": "/media/2-Surah_Ikhlaas-Qari_Raees.mp3",
+    "keywords": "Surah Ikhlaas Audio "
   }
 ]
