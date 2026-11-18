@@ -14,5 +14,13 @@
     "description": "Surah Naas ",
     "audioUrl": "/media/3-Surah_Naas-Qari_Raees.mp3",
     "keywords": "Surah Naas Audio"
+  },
+  {
+    "title": "Surah Falaq",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "Surah Falaq",
+    "audioUrl": "/media/6-Surah_Falaq-Qari_Raees.mp3",
+    "keywords": "Surah Falaq Audio"
   }
 ]
