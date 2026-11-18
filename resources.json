@@ -1,17 +1,18 @@
 [
   {
-    "title": "The Five Pillars Of Islam ",
-    "subject": "Aqaaid",
-    "type": "note",
-    "description": "An introduction to the five pillars of islam. Main points ",
-    "keywords": "Five Pillars , Islam , Aqaaid "
-  },
-  {
     "title": "Surah Faatiha",
     "subject": "Surah Audios",
     "type": "surah",
     "description": "Surah Faatiha",
     "audioUrl": "/media/1-Surah_Faatiha-Qari_Raees-1.mp3",
     "keywords": "Surah Faatiha Audio"
+  },
+  {
+    "title": "Surah Naas ",
+    "subject": "Surah Audios",
+    "type": "surah",
+    "description": "Surah Naas ",
+    "audioUrl": "/media/3-Surah_Naas-Qari_Raees.mp3",
+    "keywords": "Surah Naas Audio"
   }
 ]
