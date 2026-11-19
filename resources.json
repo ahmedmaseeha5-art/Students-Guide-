@@ -262,5 +262,13 @@
     "description": "When you sneeze ",
     "audioUrl": "/media/dua-20-sneezing-1-when-one-sneezes.mp3",
     "keywords": "Dua Sneezing Audio "
+  },
+  {
+    "title": "The Listeners Reply ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "The listeners reply to a sneeze",
+    "audioUrl": "/media/dua-20-sneezing-2-the-listeners-reply.mp3",
+    "keywords": "Dua Reply Sneeze Audio Listener "
   }
 ]
