@@ -198,5 +198,13 @@
     "description": "Dua for when you forget to read dua before eating ",
     "audioUrl": "/media/dua-12-forgets-eating-dua.mp3",
     "keywords": "Dua Eating Forget Audio "
+  },
+  {
+    "title": "After Eating ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Dua after eating ",
+    "audioUrl": "/media/dua-13-after-eating-1.mp3",
+    "keywords": "After Eating Dua Audio "
   }
 ]
