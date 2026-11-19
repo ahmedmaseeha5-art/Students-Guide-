@@ -212,6 +212,15 @@
     "subject": "Dua Audios",
     "type": "dua",
     "description": "Dua before sleeping ",
+    "audioUrl": "/media/dua-14-before-sleeping.mp3",
     "keywords": "Dua Before Sleeping Audio "
+  },
+  {
+    "title": "When Awakening ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Dua when you wake up ",
+    "audioUrl": "/media/dua-15-when-awakening.mp3",
+    "keywords": "Dua Awakening Audio "
   }
 ]
