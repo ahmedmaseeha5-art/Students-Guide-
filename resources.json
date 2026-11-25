@@ -302,5 +302,13 @@
     "description": "Durood Shareef ",
     "audioUrl": "/media/dua-23-Durood-Shareef.mp3",
     "keywords": "Durood Shareef Dua Audio "
+  },
+  {
+    "title": "Takbeer ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Takbeer ",
+    "audioUrl": "/media/duas-24-takbeer.mp3",
+    "keywords": "Takbeer dua audio "
   }
 ]
