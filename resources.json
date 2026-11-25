@@ -318,5 +318,13 @@
     "description": "Sanaa",
     "audioUrl": "/media/duas-25-sanaa.mp3",
     "keywords": "Sanaa Dua Audio "
+  },
+  {
+    "title": "26. Ta'awuz",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Ta'awuz",
+    "audioUrl": "/media/duas-26-ta-awwuz.mp3",
+    "keywords": "Ta'awuz Dua Audio "
   }
 ]
