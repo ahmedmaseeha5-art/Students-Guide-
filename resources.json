@@ -326,5 +326,13 @@
     "description": "Ta'awuz",
     "audioUrl": "/media/duas-26-ta-awwuz.mp3",
     "keywords": "Ta'awuz Dua Audio "
+  },
+  {
+    "title": "27. Tasmiya",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Tasmiyah ",
+    "audioUrl": "/media/duas-27-tasmiyah.mp3",
+    "keywords": "Tasmiyah Dua Audio "
   }
 ]
