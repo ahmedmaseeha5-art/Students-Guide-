@@ -374,5 +374,13 @@
     "description": "Tasbeeh in Sajdah ",
     "audioUrl": "/media/duas-32-tasbeeh-in-sajdah.mp3",
     "keywords": "Tasbeeh Sajdah Dua Audio"
+  },
+  {
+    "title": "33. Dua in Jalsah ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Dua to be read when sitting between the 2 Sajdahs",
+    "audioUrl": "/media/duas-33-dua-in-jalsa.mp3",
+    "keywords": "Jalsah Dua Audio Sajdah"
   }
 ]
