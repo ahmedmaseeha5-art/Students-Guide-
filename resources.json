@@ -310,5 +310,13 @@
     "description": "Takbeer ",
     "audioUrl": "/media/duas-24-takbeer.mp3",
     "keywords": "Takbeer dua audio "
+  },
+  {
+    "title": "25. Sanaa ",
+    "subject": "Dua Audios",
+    "type": "dua",
+    "description": "Sanaa",
+    "audioUrl": "/media/duas-25-sanaa.mp3",
+    "keywords": "Sanaa Dua Audio "
   }
 ]
